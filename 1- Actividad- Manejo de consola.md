@@ -21,7 +21,7 @@ Documento PDF con las pantallas de la actividad.
     - **ejemplo1.txt** 
     - **ejemplo2.txt**
     - **ejemplo3.txt**
-    -
+    
 5. Mostrar todos los archivos existentes en la **Carpeta1**.
 6. Buscar en la **Carpeta1** los archivos que terminan con extensión **txt**.
 7. Posicionate en la carpeta **SemanaTec** y busca nuevamente los archivos con extensión **txt**.
