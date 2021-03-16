@@ -1,4 +1,5 @@
 {
 	"user": "NombreDeUsuario",
-	"token": "TokenAlfanumerico" 
+	"token": "TokenAlfanumerico" ,
+	"repo": "NombreDelRepositorio"
 	}
